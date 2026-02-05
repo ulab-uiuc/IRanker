@@ -15,13 +15,13 @@
     </a>
     <br>
     <a href="https://github.com/ulab-uiuc/R1-Ranker">
-        <img alt="Build" src="https://img.shields.io/github/stars/ulab-uiuc/GraphRouter">
+        <img alt="Build" src="https://img.shields.io/github/stars/ulab-uiuc/R1-Ranker">
     </a>
     <a href="https://github.com/ulab-uiuc/R1-Ranker">
-        <img alt="Build" src="https://img.shields.io/github/forks/ulab-uiuc/GraphRouter">
+        <img alt="Build" src="https://img.shields.io/github/forks/ulab-uiuc/R1-Ranker">
     </a>
     <a href="https://github.com/ulab-uiuc/R1-Ranker">
-        <img alt="Build" src="https://img.shields.io/github/issues/ulab-uiuc/GraphRouter">
+        <img alt="Build" src="https://img.shields.io/github/issues/ulab-uiuc/R1-Ranker">
     </a>
 </p>
 

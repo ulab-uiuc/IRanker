@@ -10,24 +10,24 @@
     <!-- <a href="xxx">
         <img alt="Build" src="https://img.shields.io/badge/Twitter-black?logo=X">
     </a> -->
-    <a href="https://github.com/ulab-uiuc/GraphRouter/blob/master/LICENSE">
+    <a href="https://github.com/ulab-uiuc/R1-Ranker/blob/master/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green">
     </a>
     <br>
-    <a href="https://github.com/ulab-uiuc/GraphRouter">
+    <a href="https://github.com/ulab-uiuc/R1-Ranker">
         <img alt="Build" src="https://img.shields.io/github/stars/ulab-uiuc/GraphRouter">
     </a>
-    <a href="https://github.com/ulab-uiuc/GraphRouter">
+    <a href="https://github.com/ulab-uiuc/R1-Ranker">
         <img alt="Build" src="https://img.shields.io/github/forks/ulab-uiuc/GraphRouter">
     </a>
-    <a href="https://github.com/ulab-uiuc/GraphRouter">
+    <a href="https://github.com/ulab-uiuc/R1-Ranker">
         <img alt="Build" src="https://img.shields.io/github/issues/ulab-uiuc/GraphRouter">
     </a>
 </p>
 
 
 <p align="center">
-    <a href="https://ulab-uiuc.github.io/GraphRouter/">🌐 Project Page</a> |
+    <a href="https://ulab-uiuc.github.io/R1-Ranker/">🌐 Project Page</a> |
     <a href="http://arxiv.org/abs/2410.03834">📜 arXiv</a>
     <!-- <a href="xxx">📮 Twitter Post</a> -->
 <p>
